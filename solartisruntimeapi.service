@@ -5,8 +5,9 @@ Description=Solartis Runtime  Application
 User=provisioning_user
 Group=provisioning_user
 WorkingDirectory=/opt/SB_Runtimeapi_Automation_Beta
-ExecStart=/opt/runtimeapi/python3.11/bin/gunicorn SolartisRuntimeapiV3:app --bind 10.8.0.2:5000 --worker-class uvicorn.workers.UvicornWorker --pid /opt/SB_Runtimeapi_Automation_Beta/solartisruntimeapi.pid --access-logfile /opt/SB_Runtimeapi_Automation_Beta/access.log --capture-output
+ExecStart=/opt/runtimeapi/python3.11/bin/gunicorn SolartisRuntimeapiV3:app --bind 10.8.0.2:5000 --worker-class uvicorn.workers.UvicornWorker --pid /opt/SB_Runtimeapi_Automation_Beta/solartisruntimeapi.pid --error-logfile /opt/SB_Runtimeapi_Automation_Beta/error.log --access-logfile /opt/SB_Runtimeapi_Automation_Beta/access.log --capture-output
 Restart=always
 
 [Install]
 WantedBy=multi-user.target
+
