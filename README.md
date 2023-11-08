@@ -1,2 +1,2 @@
-# SB_Runtimeapi_Automation_Beta
-SB_Runtimeapi_Automation_Beta
+# SB_Runtimeapi_Automation
+SB_Runtimeapi_Automation
