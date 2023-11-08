@@ -1,0 +1,35 @@
+[2023-11-03 10:32:11 +0000] [26896] [INFO] Starting gunicorn 21.2.0
+[2023-11-03 10:32:11 +0000] [26896] [INFO] Listening at: http://10.8.0.2:5000 (26896)
+[2023-11-03 10:32:11 +0000] [26896] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2023-11-03 10:32:11 +0000] [26898] [INFO] Booting worker with pid: 26898
+[2023-11-03 10:32:11 +0000] [26898] [INFO] Started server process [26898]
+[2023-11-03 10:32:11 +0000] [26898] [INFO] Waiting for application startup.
+[2023-11-03 10:32:11 +0000] [26898] [INFO] Application startup complete.
+[2023-11-03 10:33:01 +0000] [26896] [INFO] Handling signal: term
+[2023-11-03 10:33:01 +0000] [26898] [INFO] Shutting down
+[2023-11-03 10:33:01 +0000] [26898] [INFO] Waiting for application shutdown.
+[2023-11-03 10:33:01 +0000] [26898] [INFO] Application shutdown complete.
+[2023-11-03 10:33:01 +0000] [26898] [INFO] Finished server process [26898]
+[2023-11-03 10:33:01 +0000] [26898] [INFO] Worker exiting (pid: 26898)
+Configuration file path:  /opt/SB_Runtimeapi_Automation_Beta/Logger/../logs/API.log
+[2023-11-03 10:33:01 +0000] [26896] [INFO] Shutting down: Master
+[2023-11-06 11:18:23 +0000] [7215] [INFO] Starting gunicorn 21.2.0
+[2023-11-06 11:18:23 +0000] [7215] [INFO] Listening at: http://10.8.0.2:5000 (7215)
+[2023-11-06 11:18:23 +0000] [7215] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2023-11-06 11:18:23 +0000] [7217] [INFO] Booting worker with pid: 7217
+[2023-11-06 11:18:24 +0000] [7217] [INFO] Started server process [7217]
+[2023-11-06 11:18:24 +0000] [7217] [INFO] Waiting for application startup.
+[2023-11-06 11:18:24 +0000] [7217] [INFO] Application startup complete.
+Text file 'transactiondb.txt' created in '/opt/SB_Runtimeapi_Automation_Beta/Runtime_Scripts/'
+[2023-11-07 06:04:09 +0000] [7215] [INFO] Handling signal: term
+[2023-11-07 06:04:09 +0000] [7217] [INFO] Shutting down
+[2023-11-07 06:04:10 +0000] [7217] [INFO] Waiting for application shutdown.
+[2023-11-07 06:04:10 +0000] [7217] [INFO] Application shutdown complete.
+[2023-11-07 06:04:10 +0000] [7217] [INFO] Finished server process [7217]
+[2023-11-07 06:04:10 +0000] [7217] [INFO] Worker exiting (pid: 7217)
+Configuration file path:  /opt/SB_Runtimeapi_Automation_Beta/Logger/../logs/API.log
+the value is 2e81bdb1-520a-4af3-8aa1-d2a90d30f642
+Script execution has been initiated.
+Create_Transaction_Database_API.sh executed
+All the requested services scripts has been executed.
+[2023-11-07 06:04:10 +0000] [7215] [INFO] Shutting down: Master

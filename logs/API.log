@@ -1,0 +1,98 @@
+2023-11-02 11:11:08,481 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 533
+2023-11-02 11:11:08,482 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 533
+2023-11-02 11:12:33,503 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 534
+2023-11-02 11:12:33,505 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 534
+2023-11-02 11:13:33,308 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 535
+2023-11-02 11:13:33,309 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 535
+2023-11-02 11:14:14,700 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 536
+2023-11-02 11:14:14,701 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 536
+2023-11-02 11:22:56,526 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 540
+2023-11-02 11:22:56,527 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 540
+2023-11-02 11:25:29,504 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:25:29,505 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:25:29,505 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:25:29,506 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:25:29,506 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:26:47,693 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:26:47,693 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:26:47,694 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:26:47,694 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:26:47,694 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:27:30,418 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:27:30,419 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:27:30,419 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:27:30,420 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:27:30,420 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:28:14,539 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:28:14,539 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:28:14,540 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:28:14,540 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:28:14,540 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:29:21,385 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:29:21,385 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:29:21,385 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:29:21,386 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:29:21,386 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:29:21,386 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:30:06,502 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:30:06,502 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:30:06,503 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:30:06,503 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:30:06,503 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:31:36,603 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:31:36,603 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:31:36,604 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:31:36,604 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:31:36,604 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:33:18,042 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:18,042 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:18,043 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:18,043 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:18,043 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-02 11:33:51,488 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:51,489 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:51,489 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-02 11:33:51,490 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:06:02,408 - __main__ - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 542
+2023-11-03 06:06:02,409 - __main__ - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 542
+2023-11-03 06:08:10,844 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find DB details PRV_CUSTOMER_DB_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:08:10,845 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:08:10,845 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:08:10,846 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:08:10,846 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:08:10,846 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:10:10,143 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:10:10,144 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:10:10,144 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:10:10,144 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:10:10,145 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:12:02,006 - __main__ - INFO - update_data_route - Data inserted into the database for OWNER_ID: 542
+2023-11-03 06:12:02,006 - __main__ - INFO - update_data_route - Data insertion and script execution initiated for OWNER_ID: 542
+2023-11-03 06:12:40,265 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find UIUX RUNTIME details PRV_CUSTOMER_UIUX_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:12:40,265 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:12:40,266 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:12:40,266 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:12:40,267 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:12:40,267 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:14:24,393 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:14:24,393 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:14:24,393 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:14:24,394 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:14:24,394 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:16:27,911 - __main__ - INFO - update_data_route - Data inserted into the database for OWNER_ID: 542
+2023-11-03 06:16:27,911 - __main__ - INFO - update_data_route - Data insertion and script execution initiated for OWNER_ID: 542
+2023-11-03 06:17:23,151 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:17:23,152 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find WORKFLOW RUNTIME details PRV_CUSTOMER_WORFLOW_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:17:23,152 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:17:23,153 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:17:23,153 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-03 06:20:32,749 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:20:32,750 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:20:32,750 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 542, customerName: WC, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-03 06:20:32,750 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-06 11:20:35,984 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find RATING RUNTIME details PRV_CUSTOMER_RATING_RUNTIME table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-06 11:20:35,984 - GetStatus.getStatus - INFO - getStatusCall - Couldn't find CUSTOMER JENKINS details PRV_CUSTOMER_JENKINS_PIPELINE table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-06 11:20:35,985 - GetStatus.getStatus - ERROR - getStatusCall - Couldn't find any CUSTOMER REPO details in PRV_CUSTOMER_REPO_URL table for ownerId: 540, customerName: ALLSTATE, customerType: ISO,  lineOfBusiness: GL, environmentType: CONFIG 
+2023-11-06 11:20:35,985 - GetStatus.getStatus - INFO - getStatusCall - Closing DB cursor...
+2023-11-06 11:37:02,359 - SolartisRuntimeapiV3 - INFO - insert_data_route - Data inserted into the database for OWNER_ID: 545
+2023-11-06 11:37:02,360 - SolartisRuntimeapiV3 - INFO - insert_data_route - Data insertion and script execution initiated for OWNER_ID: 545
