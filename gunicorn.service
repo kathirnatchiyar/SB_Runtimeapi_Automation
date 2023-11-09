@@ -1,0 +1,13 @@
+[Unit]
+Description=Solartis Runtime  Application
+After=network.target
+
+[Service]
+User=provisioning_user
+Group=provisioning_user
+WorkingDirectory=/opt/SB_Runtimeapi_Automation_Beta
+Environment="PATH=/opt/runtimeapi/python3.11/bin/"
+ExecStart=/opt/runtimeapi/python3.11/bin/gunicorn --config /opt/SB_Runtimeapi_Automation_Beta/gunicorn.py main:app
+
+[Install]
+WantedBy=multi-user.target

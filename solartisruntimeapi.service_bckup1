@@ -1,0 +1,16 @@
+[Unit]
+Description=Solartis Runtime  Application
+After=network.target
+
+[Service]
+Type=simple
+User=provisioning_user
+Group=provisioning_user
+ExecStart=/opt/runtimeapi/python3.11/bin/python3 /opt/SB_Runtimeapi_Automation_Beta/SolartisRuntimeapiV3.py --host 10.8.0.2 --port 5000
+WorkingDirectory=/opt/SB_Runtimeapi_Automation_Beta
+RestartSec=30
+StandardOutput=/opt/SB_Runtimeapi_Automation_Beta/access.log
+StandardError=/opt/SB_Runtimeapi_Automation_Beta/error.log
+
+[Install]
+WantedBy=multi-user.target
